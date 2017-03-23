@@ -1,4 +1,4 @@
-print(pietro likes dick up his ass):
+print('Nico likes dick up his ass'):
   return True
   
-print ("Try me, bitch.")
+print ("you have a pussy.")
